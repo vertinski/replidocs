@@ -1,5 +1,7 @@
 # RepliDocs 📜
 
+![RepliDocs Terminal Demo](assets/replidocs_terminal.gif)
+
 RepliDocs is an automated programming documentation scraper designed for usage in Replit AI context. Created by Vertinski (oc) 2024.
 
 ## Description
@@ -19,8 +21,8 @@ This Python-based tool allows users to search for and retrieve programming docum
 - `lang <language>`: Change the target programming language
 - `clear`: Clear the stored documentation
 - `buff <int>`: Set the document count in the buffer
-- `exit`: Quit the program
 - `help`: Display available commands and usage information
+- `exit`: Quit the program
 
 ## Limitations and Potential Improvements
 
